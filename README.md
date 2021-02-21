@@ -1,3 +1,3 @@
 # BlazorTailwind
 
-Thiis smaple project that show how to use Tailswindcss in blazor application
+This is smaple project that show how to use Tailswindcss in blazor application
